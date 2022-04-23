@@ -1,31 +1,54 @@
-# Weatherdashboard
 
-## User Story
-
-
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
+## Weather-Dashboard
 
 
 
+## table of contents
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Credits](#credits)
+5. [License](#license)
+6. [Questions](#questions)
+        
+        
+        
+## Description
+The weather dashboard allows users to view the weather in any given city around the world
 
+The motivation of building this was to allow travellers to view a five day forcast for a specific city they planned to visit
 
-GIVEN a weather dashboard with form inputs
-WHEN I search for a city
-WHEN I view current weather conditions for that city
-THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
+This problem solves immediate weather details for the area that is specified for their choice of city
 
+The knowledge gained from building this weather application was using third-party APIs'
+        
+        
+## Installation
+Nothing is required to install this application
 
-## Mock-Up
+There are no steps to install the Weather-dashboard application
+        
+        
+## Usage
+Go the main site. /n after you are at the home page, look for the search box located at the top middle /n Type in the desired location you wish to view the 5 day weather for that specific city.
 
-The following image shows the web application's appearance and functionality:
+![Weather-app image](./weather%20app.jpg)
+        
+## Credits
+Hayden Kiltoff
 
-![getstarted](./weather%20app.jpg)
+[OpenWeather One Call API](https://openweathermap.org/api/one-call-api)
+        
+        
 
-## Grading Requirements
+## Questions
+You can access my github repository from here https://github.com/hayden1773
+        
+You may also forward an email for more information or questions to hayden060@gmail.com
+        
+## Features
+
+        
+        
+## Tests 
 
